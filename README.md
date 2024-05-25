@@ -5,9 +5,10 @@ Welcome to Milano Pizza, a user-friendly and visually appealing web application 
 
 ## Features
 
--Interactive Menu: Browse the delicious offerings with a seamless and dynamic interface.
+-Interactive Menu: Browse the delicious offerings with a seamless and dynamic interface
 -Responsive Design: Ensures a great user experience across various devices (mobile, tablet, desktop).
--Online Ordering: Simplified order process with an intuitive UI to enhance customer convenience.
+-Online Ordering: Simplified order process with an intuitive UI to
+enhance customer convenience.
 -Customizable Pizzas: Users can customize their pizzas according to their preferences.
 -Location and Contact Information: Easily accessible details for visiting or contacting the pizzeria.
 -User Authentication: Secure login and registration for a personalized experience.
